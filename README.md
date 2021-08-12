@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Xin Rui, and I am a Computer Science student at McGill University. 
+My name is Xin Rui, and I am a Computer Science student at McGill
 
 Editor @ [Frying Pan](https://www.youtube.com/user/MyPanoo)
 
