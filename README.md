@@ -6,7 +6,7 @@ Editor @ [Frying Pan](https://www.youtube.com/user/MyPanoo)
 
 VP External @ [McGill Artificial Intelligence Society](https://www.mcgillai.com/)
 
-Jiujitsu enthusiast
+Jiujitsu enthusiast 🥋
 
 - 🌱 I’m currently learning Rust!
 - 🤔 I’m looking for summer internship opportunities!
