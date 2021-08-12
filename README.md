@@ -2,7 +2,7 @@
 
 My name is Xin Rui, and I am a Computer Science student at McGill University. 
 
-Editor for the youtube tech channel [Frying Pan](https://www.youtube.com/user/MyPanoo)
+Editor @ [Frying Pan](https://www.youtube.com/user/MyPanoo)
 
 VP External @ [McGill Artificial Intelligence Society](https://www.mcgillai.com/)
 
